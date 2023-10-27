@@ -4,7 +4,7 @@
 > official configuration from Kinesis as this repo won't be updated anymore to incorporate new ZMK
 > features.
 
-# Demo config for Kinesis Advantage 360 pro
+# Demo config for Kinesis Advantage 360 pro1
 
 This is a variation of the [official ZMK
 configuration](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) for the Advantage
